@@ -15,7 +15,7 @@ Para instalar a plataforma Jupyter temos as seguintes opções:
 1- Instalar o pacote Anaconda para versão 3.7 do python, através do link
 https://www.anaconda.com/download/
 
-Apos instalado, abriremos o CMD(prompt de comando) do windows como administrador e executaremos o seguinte comando para instalar as bibliotecas que usaremos no curso:
+Apos instalado, abriremos o anaconda prompt ou pelo cmd do windows como administrador e executaremos o seguinte comando para instalar as bibliotecas que usaremos no curso:
 
 conda install scipy pandas numpy matplotlib sympy
 
