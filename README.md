@@ -17,12 +17,13 @@ https://www.anaconda.com/download/
 
 Apos instalado, abriremos o anaconda prompt ou pelo cmd do windows como administrador e executaremos o seguinte comando para instalar as bibliotecas que usaremos no curso:
 
-conda install scipy pandas numpy matplotlib sympy
+conda install scipy pandas numpy matplotlib sympy 
 
 ## OU
 
 2- Instalando o Python no site oficial (https://www.python.org/downloads/)
 e depois instalando os pacotes atraves de algum gerenciador de pacotes (utilizo o pip)
+e usar o comando python3 -m pip install scipy pandas numpy matplotlib sympy jupyter
 
 Porém, recomendo utilizem a primeira opção, por ser mais fácil e prático. 
 
