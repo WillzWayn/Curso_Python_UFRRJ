@@ -30,3 +30,8 @@ Porém, recomendo utilizem a primeira opção, por ser mais fácil e prático.
 qualquer duvida procurem meu telefone com o pessoal ou mandem um e-mail para WillzWayn@gmail.com.
 
 valeu !
+
+https://colab.research.google.com/github/WillzWayn/Curso_Python_UFRRJ/blob/master/Primeira%20Parte%20-%20Introdu%C3%A7%C3%A3o.ipynb
+
+https://colab.research.google.com/github/WillzWayn/Curso_Python_UFRRJ/blob/master/Conhecendo%20o%20Dr.%20Ignaz%20Semmelweis.ipynb
+
